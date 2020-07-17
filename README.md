@@ -2,4 +2,14 @@
 
 This assessment was bespoke handcrafted for seharm.
 
-Read more about this assessment [here](https://react.eogresources.com)
+Technologies Used:
+
+React
+
+Redux
+
+GraphQL
+
+Redux Hooks
+
+Redux Saga
